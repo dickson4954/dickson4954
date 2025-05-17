@@ -1,20 +1,19 @@
 ## 👋 Hi, I'm Dickson Murithi
 
-💻 Full Stack Developer (Front-end & Back-end) | 🚀 Passionate Problem Solver/>
+💻 Full Stack Developer (Front-end & Back-end) | 🚀 Passionate Problem Solver
 
 ---
 
 ### 🧠 About Me
 
-I am a software engineer with a passion for crafting innovative solutions and building robust applications. Skilled in **JavaScript**, **Python**, **React**, **Node.js**, and a comprehensive suite of software engineering principles and practices.
+I am a software engineer with a passion for crafting innovative solutions and building robust applications. Skilled in **JavaScript** ⚡, **Python** 🐍, **React** ⚛️, **Node.js** 🌐, and a comprehensive suite of software engineering principles and practices.
 
 I have completed courses in:
 
-- Front-end and back-end development  
-- Database management  
-- Algorithms and data structures  
-- Software design patterns  
-
+- 🖥️ Front-end and back-end development  
+- 🗃️ Database management  
+- 🧮 Algorithms and data structures  
+- 🧱 Software design patterns  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nkathawa_jr?igsh=MTNxZGc5NnNiMTNrcg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dickson-murithi-34bb10311 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/nkathawa_jr?t=OOsFb0ZUfJ5nfYXjaNjGPg&s=09) 
